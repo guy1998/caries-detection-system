@@ -1,3 +1,3 @@
 # Caries Detection System
 
-Original dataset can be found here: https://zenodo.org/records/4907880
+Original dataset can be found here: https://www.kaggle.com/datasets/imtkaggleteam/dental-radiography?resource=download
